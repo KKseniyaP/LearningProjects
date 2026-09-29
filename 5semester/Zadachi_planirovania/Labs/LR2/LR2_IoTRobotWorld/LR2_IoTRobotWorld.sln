@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37314.3 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LR2_IoTRobotWorld", "LR2_IoTRobotWorld.csproj", "{367CA622-31A8-45F7-963D-CE5126642918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{367CA622-31A8-45F7-963D-CE5126642918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{367CA622-31A8-45F7-963D-CE5126642918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{367CA622-31A8-45F7-963D-CE5126642918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{367CA622-31A8-45F7-963D-CE5126642918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3363FC37-C5F6-4C7F-A91D-EF40452B13EF}
+	EndGlobalSection
+EndGlobal
